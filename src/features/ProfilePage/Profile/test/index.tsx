@@ -1,0 +1,1 @@
+// testにはIntegration Test(統合テスト)を書きます。componentsやfunctions、hooksなどにUnit Test(単体テスト)は書きません。これはTesting Trophyの思想に基づいた考えになります。

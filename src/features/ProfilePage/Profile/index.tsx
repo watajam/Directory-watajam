@@ -1,0 +1,2 @@
+// 配下の各フォルダを使ってProFileのパーツを作成
+// index.tsxでAPIの取得など機能全体に必要なことやcomponentsの組み合わせを行います。ここがContainer Componentで、componentsの中身がPresentational Componentでだと思ってもらえれば分かりやすいかもしれません。

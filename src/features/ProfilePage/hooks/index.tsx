@@ -1,0 +1,1 @@
+// このページで使う汎用的なhooks　(基本的にはProfilepage配下のhooksには記載しない)

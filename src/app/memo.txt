@@ -1,0 +1,7 @@
+・(shop)フォルダはRoute Groups:まとめて独自のレイアウトを適応できる
+・(account)フォルダはSuspenseを使う場合の例 ※componetsにはpage.tsxに呼び出しているものは書いてません
+・(checkout)フォルダはNestedSuspenseを使う場合の例 ※componetsにはpage.tsxに呼び出しているものは書いてません
+・(features)フォルダは各ページで使われるコンポーネントや関数などが記載されており、組み立てたものをpage.tsxにimportして利用
+・基本的にpage.tsxには各フォルダから呼び出した物つかって組み立てていく
+・gqlの定義は各page.tsx毎に定義
+・(profilePage)フォルダはスレッドに貼ったgithubのページを定義する際の例（demo的な感じ）

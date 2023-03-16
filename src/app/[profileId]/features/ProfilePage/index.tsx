@@ -1,1 +1,1 @@
-// ページ部品のRepositoriesやProfileやOverviewをimportしてindex.tsxファイルからexportする
+// ページ部品のRepositoriesやProfileやOverviewをindex.tsxファイルからexportする
